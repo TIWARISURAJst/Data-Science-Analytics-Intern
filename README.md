@@ -86,15 +86,14 @@ jupyter notebook trader_sentiment_analysis.ipynb
 ├── README.md                          # This file
 ├── fear_greed_index.csv               # Input data (place here)
 ├── historical_data.csv                # Input data (place here)
-└── charts/
-    ├── chart1_pnl_distribution.png
-    ├── chart2_behavior.png
-    ├── chart3_long_short.png
-    ├── chart4_cumulative_pnl.png
-    ├── chart5_segments.png
-    ├── chart6_heatmap.png
-    ├── chart7_scatter.png
-    └── chart8_feature_importance.png
+├── chart1_pnl_distribution.png
+├── chart2_behavior.png
+├── chart3_long_short.png
+├── chart4_cumulative_pnl.png
+├── chart5_segments.png
+├── chart6_heatmap.png
+├── chart7_scatter.png
+└── chart8_feature_importance.png
 ```
 
 ---
